@@ -1,0 +1,183 @@
+.relshell {
+  position: relative;
+  width: 100%;
+}
+
+#relshell-scroll {
+  height: 60px;
+  width: 300px;
+}
+
+@media only screen and (min-width: 764px) {
+  #relshell-scroll {
+    width: 500px;
+  }
+}
+
+@media only screen and (min-width: 956px) {
+  #relshell-scroll {
+    width: 90px;
+  }
+}
+
+#relshell_modal {
+  width: 300px;
+}
+
+@media only screen and (min-width: 772px) {
+  #relshell_modal {
+    width: 600px;
+  }
+}
+
+.modal {
+  position: absolute;
+}
+
+.close-modal {
+  font-size: 44px;
+  font-weight: 800;
+  cursor: pointer;
+  padding: 0.25em;
+  z-index: 1300;
+}
+
+#parasol-detail-modal-wrapper {
+  width: 100%;
+}
+
+#product-detail-modal {
+  width: 95%;
+  display: none;
+}
+
+#parasol-catalog-wrapper {
+
+}
+
+#parasol-catalog-select-wrapper {
+
+}
+
+#parasol-catalog-detail {
+  padding: 0.5em;
+  margin: 0.5em;
+  border: 2.5px solid lightgrey;
+  border-radius: 5px;
+}
+
+#catalog-detail-title, #product-detail-meta {
+  font-family: Tahoma, Arial, sans-serif;
+}
+
+#catalog-detail-title {
+  max-width: 400px;
+  min-width: 400px;
+  text-align: center;
+  cursor: pointer;
+}
+
+ul#parasol-catalog-selector {
+  list-style: none;
+  padding-inline-start: 0;
+  padding: 1em;
+  margin: 1em;
+  border: 2.5px solid powderblue;
+  border-radius: 5px;
+}
+
+a.product-nav-anchor {
+  color: black;
+}
+
+p.product-info-line {
+
+}
+
+p.title {
+  font-style:italic;
+  margin-block-start: 0.6em;
+  margin-block-end: 0;
+}
+
+#product-select-scroll-nav {
+  position: absolute;
+  left: 45%;
+  top: -6px;
+}
+
+@media only screen and (min-width: 772px) {
+  #product-select-scroll-nav {
+    top: 0;
+  }
+}
+
+@media only screen and (min-width: 996px) {
+  #product-select-scroll-nav {
+    top: 60px;
+  }
+}
+
+.scroll-nav {
+  cursor: pointer;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+}
+
+#scroll-up-icon,#scroll-down-icon {
+  font-size: 40px;
+  opacity: 0.66;
+}
+
+li.catalog-list-item {
+  font-family: Tahoma,Arial,sans-serif;
+  font-size: 16px;
+  padding: 0.5em;
+  margin: 0.5em;
+  border: 2.5px solid lightgrey;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.product-image {
+  margin: 0.75em;
+  height: 125px;
+  width: 125px;
+}
+
+#catalog-detail-image {
+  margin: 1em;
+}
+
+.meta-detail {
+  font-size: 14px;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+ul.playlist, section.product-description, p.review-rating {
+  font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+}
+
+ul.playlist {
+  list-style: none;
+  font-size: 24px;
+}
+
+ul.playlist > li {
+  padding: 0.5em;
+}
+
+section.product-description {
+  font-size: 20px;
+  font-weight: 600;
+  margin: 1em;
+}
+
+p.review-rating {
+  font-size: 20px;
+  font-weight: 500;
+  margin: 1em;
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "title":"Radian Futura",
+    "author":"Upsilon Acrux",
+    "date":"2009",
+    "label":"Cuneiform",
+    "image": "radian-futura"
+  },
+  {
+    "title" : "Choirs of the Eye",
+    "author" : "Kayo Dot",
+    "date" : "2003",
+    "label": "Tzadik",
+    "image": "choirs-of-the-eye"
+  },
+  {
+    "title" : "In Glorious Times",
+    "author" : "Sleepytime Gorilla Museum",
+    "date" : "2007",
+    "label": "The End",
+    "image": "in-glorious-times"
+  },
+  {
+    "title" : "Book of Horizons",
+    "author" : "Secret Chiefs 3",
+    "date" : "2004",
+    "label": "Web of Mimicry",
+    "image": "book-of-horizons"
+  },
+  {
+    "title":"Kobaia",
+    "author":"Magma",
+    "date":"1970",
+    "label":"Phillips",
+    "image": "kobaia"
+  },
+  {
+    "title":"First Utterance",
+    "author":"Comus",
+    "date":"1971",
+    "label":"Dawn",
+    "image": "first-utterance"
+  },
+  {
+    "title":"Dead as Dreams",
+    "author":"Weakling",
+    "date":"2000",
+    "label":"Tumult",
+    "image": "dead-as-dreams"
+  },
+  {
+    "title":"August Engine",
+    "author":"Hammers of Misfortune",
+    "date":"2003",
+    "label":"Cruz del Sur",
+    "image": "august-engine"
+  }
+]
