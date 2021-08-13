@@ -165,6 +165,7 @@ class Select {
     list_item.appendChild(info_box)
     list_item.setAttribute('meta',JSON.stringify(valid_row))
     list_item.className = 'catalog-list-item flex-row flex-start'
+    list_item.id = slug + '-catalog-item'
 
     anchor_tag.className = 'product-nav-anchor'
     anchor_tag.href = '#' + slug
